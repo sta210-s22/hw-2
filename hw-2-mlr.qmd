@@ -1,0 +1,68 @@
+---
+title: "HW 2 - Multiple linear regression"
+subtitle: "STA 210 - Spring 2022"
+author: "Add your name here"
+date: "Add the date here"
+format: pdf
+editor: visual
+---
+
+# Setup
+
+Load packages and data:
+
+```{r load-pkg}
+#| message: false
+
+# load packages
+library(tidyverse)
+library(tidymodels)
+library(knitr)
+library(palmerpenguins)
+```
+
+# Exercises
+
+## Part 1: Conceptual
+
+### Exercise 1
+
+
+
+### Exercise 2
+
+
+
+### Exercise 3
+
+
+
+### Exercise 4
+
+
+
+\pagebreak
+
+## Part 2 - Palmer penguins
+
+### Exercise 5
+
+
+
+### Exercise 6
+
+
+
+\pagebreak
+
+## Part 3 - Perceived threat of Covid-19
+
+### Exercise 7
+
+
+
+### Exercise 8
+
+
+
+### Exercise 9
